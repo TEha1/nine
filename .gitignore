@@ -1,0 +1,8 @@
+*.pyc
+.idea
+staticfiles
+__pycache__/
+*.pyo
+seven/apps/user/migrations/
+seven/apps/ads/migrations/
+seven-venv/

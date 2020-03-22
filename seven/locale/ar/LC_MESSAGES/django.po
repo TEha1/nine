@@ -1,0 +1,184 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-28 14:47+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+#: .\apps\ads\models.py:6 .\apps\ads\models.py:17
+msgid "name"
+msgstr "الاسم"
+
+#: .\apps\ads\models.py:9 .\apps\ads\models.py:30
+msgid "Country"
+msgstr "دولة"
+
+#: .\apps\ads\models.py:10
+msgid "Countries"
+msgstr "دول"
+
+#: .\apps\ads\models.py:20 .\apps\ads\models.py:31
+msgid "Category"
+msgstr "نوع"
+
+#: .\apps\ads\models.py:21
+msgid "Categories"
+msgstr "أنواع"
+
+#: .\apps\ads\models.py:28
+msgid "title"
+msgstr "عنوان"
+
+#: .\apps\ads\models.py:29
+msgid "description"
+msgstr "الوصف"
+
+#: .\apps\ads\models.py:32
+msgid "msg_allow"
+msgstr "السماح بالرسائل"
+
+#: .\apps\ads\models.py:33
+msgid "pic1"
+msgstr "صورة1"
+
+#: .\apps\ads\models.py:34
+msgid "pic2"
+msgstr "صورة2"
+
+#: .\apps\ads\models.py:35
+msgid "pic3"
+msgstr "صورة3"
+
+#: .\apps\ads\models.py:36
+msgid "pic4"
+msgstr "صورة4"
+
+#: .\apps\ads\models.py:37
+msgid "pic5"
+msgstr "صورة5"
+
+#: .\apps\ads\models.py:38
+msgid "main"
+msgstr "الرئيسية"
+
+#: .\apps\ads\models.py:41
+msgid "Ad"
+msgstr "اعلان"
+
+#: .\apps\ads\models.py:42
+msgid "Ads"
+msgstr "اعلانات"
+
+#: .\apps\user\admin.py:21
+msgid "Manage"
+msgstr "أدارة"
+
+#: .\apps\user\models.py:19
+msgid "username"
+msgstr "اسم المستخدم"
+
+#: .\apps\user\models.py:20
+msgid "email"
+msgstr "الايميل"
+
+#: .\apps\user\models.py:21
+msgid "Mobile number"
+msgstr "رقم المحمول"
+
+#: .\apps\user\models.py:22
+msgid "gender"
+msgstr "النوع"
+
+#: .\apps\user\models.py:23
+#, fuzzy
+#| msgid "Country"
+msgid "country"
+msgstr "دولة"
+
+#: .\apps\user\models.py:24
+msgid "is_seller"
+msgstr "بائع ؟"
+
+#: .\apps\user\models.py:25
+#, fuzzy
+#| msgid "Change password"
+msgid "password"
+msgstr "تغير كلمة المرور"
+
+#: .\apps\user\models.py:26
+msgid "is_active"
+msgstr "نشط ؟"
+
+#: .\apps\user\models.py:27
+msgid "is_authenticated"
+msgstr "مسجل ؟"
+
+#: .\apps\user\models.py:30
+msgid "User"
+msgstr "مستخدم"
+
+#: .\apps\user\models.py:31
+msgid "Users"
+msgstr "مستخدمين"
+
+#: .\apps\user\models.py:43
+msgid "Key"
+msgstr "مفتاح"
+
+#: .\apps\user\models.py:44
+msgid "user"
+msgstr "مستخدم"
+
+#: .\apps\user\models.py:55
+msgid "TOken"
+msgstr "مفتاح دخول"
+
+#: .\config\settings.py:37
+msgid "Arabic"
+msgstr "عربي"
+
+#: .\config\settings.py:38
+msgid "English"
+msgstr "انجليزي"
+
+#: .\templates\admin\base_site.html:10
+msgid "Seven Admin"
+msgstr "الادمن"
+
+#: .\templates\admin\base_site.html:23
+msgid "Documentation"
+msgstr "الوثسقة"
+
+#: .\templates\admin\base_site.html:27
+msgid "Change password"
+msgstr "تغير كلمة المرور"
+
+#: .\templates\admin\base_site.html:29
+msgid "Log out"
+msgstr "تسجيل خروج"
+
+#, fuzzy
+#~| msgid "Category"
+#~ msgid "category"
+#~ msgstr "نوع"
+
+msgid "update"
+msgstr "تعديل"
+
+msgid "delete"
+msgstr "حذف"
+
